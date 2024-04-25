@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This is a brief collection of foods I encountered while living in Nagoya, Japan. One of the most striking things about Japanese culture is the care and attention to detail when presenting seasonal or representative dishes for a particular region. I chose a few of my favorite dishes from my onsen vacations during my winter vaction in 2013. I have also included some pictures that I just enjoyed eating.: 
+This is a brief collection of foods I encountered while living in Nagoya, Japan. One of the most striking things about Japanese culture is the care and attention to detail when presenting seasonal or representative dishes for a particular region. I chose a few of my favorite dishes from my onsen vacations during my winter vaction in 2013. I have also included some pictures that I just enjoyed eating: 
 
 - Eat with your eyes
 - Take in seasonal delights
